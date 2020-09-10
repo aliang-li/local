@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/test3D/test3D.jsp=UTF-8
+encoding//src/cn/itcast/goods/admin/web/filter=UTF-8
+encoding//src/cn/itcast/goods/admin/web/filter/AdminLoginFilter.java=UTF-8
+encoding//src/cn/itcast/goods/user/dao/UserDao.java=UTF-8
+encoding//src/cn/itcast/goods/user/service/UserService.java=UTF-8
+encoding//src/cn/itcast/goods/user/web/servlet/UserServlet.java=UTF-8
+encoding//src/cn/itcast/goods/web/filter/LoginFilter.java=UTF-8
+encoding//src/cn/itcast/vcode/servlet/VerifyCodeServlet.java=UTF-8
+encoding//src/demo/servlet/UploadServlet1.java=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
